@@ -15,7 +15,7 @@ First, I imported a couple of things(shown below in required libraries). Then I 
 ## Running this project
 
 1. Add steps for running this project.
-You can run this project in the Jupyter notebook, I made the code that way so that you can use the widgets(as that was easiest for me). 
+You can run this project in the Jupyter notebook, I made the code that way so that you can use the widgets(as that was easiest for me). But I do want to mention that this program is pretty specific to my managa, so it would be hard to use for general purpose(like I don't even know if other people could run the command, as I think that the code I uploaded is a little outdated, as in I made some changes to them, so if there is an error message or the code does not run then message me or just watch the video demonstration. And I think I might have the physical training on my jupyter account, so I would really recommend watching the video(sorry for the inconviencce, I did run into a lot of technical difficulties during this process so I wouldn't be suprised if another arose). 
 2. Make sure to include any required libraries that need to be installed for your project to run.
 
 First, I imported a couple of things(shown below in required libraries). This includes: My usb camera, from dataset import ImageClassificationDataset(the dataset), ipywidgets, traitlets, from IPython.display import display, from jetcam.utils import bgr8_to_jpeg, torchvision, torch, threading, time, from utils import preprocess, torch.nn.functional(as f), OS, and IPython(this time to shut down my camera). 
