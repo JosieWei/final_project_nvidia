@@ -20,3 +20,5 @@ You can run this project in the Jupyter notebook, I made the code that way so th
 
 First, I imported a couple of things(shown below in required libraries). This includes: My usb camera, from dataset import ImageClassificationDataset(the dataset), ipywidgets, traitlets, from IPython.display import display, from jetcam.utils import bgr8_to_jpeg, torchvision, torch, threading, time, from utils import preprocess, torch.nn.functional(as f), OS, and IPython(this time to shut down my camera). 
 [View a video explanation here](video link)
+This is my video: 
+https://watch.screencastify.com/v/3t3PuIfrp6Pz1IVE5EA8 
